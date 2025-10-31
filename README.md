@@ -1,4 +1,5 @@
 ## *Comparación de Modelos Supervisados usando Validación Cruzada*
+***Autora:*** *Sara Peña Alvarez*
 
 ### *Objetivo*
 *El propósito de este trabajo práctico es comparar el rendimiento de distintos modelos de regresión supervisada para predecir el salario individual, aplicando la técnica de validación cruzada como herramienta principal de evaluación.
